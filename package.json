@@ -1,0 +1,20 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "main": "fleet.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "json2csv": "^6.0.0-alpha.2"
+  },
+  "description": ""
+}
